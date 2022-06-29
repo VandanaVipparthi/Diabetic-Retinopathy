@@ -50,7 +50,6 @@ identify a variety of common eye illnesses. Ophthalmologists’ manual Diabetic 
 
 # Dataset
 The dataset consists of 3553 color images belonging to 5 categories. Categories that are present in the data are No DR, Mild, Moderate, severe and proliferative.
-https://drive.google.com/drive/folders/1DSxASiamybcBVXiIMHtURhLD7/uPKQYup?usp=sharing
 
 # Outputs
 ![image](https://user-images.githubusercontent.com/79081616/176476871-4d6fa25d-57a1-458c-a87a-54e02a0ae19e.png)
